@@ -14,7 +14,7 @@ body {
 #header {
   width: 100%;
   height: 100vh;
-  background-image: url(images/pexels-marta-branco-1194713.jpg);
+  background-image: url(pexels-marta-branco-1194713.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -325,7 +325,7 @@ nav .fas {
 }
 @media only screen and (max-width: 600px) {
   #header {
-    background-image: url(images/for\ small\ screen.jpg);
+    background-image: url(small\ screen.jpg);
   }
   .header-text {
     margin-top: 100%;
