@@ -91,7 +91,6 @@ nav ul li a:hover::after {
 }
 .about-col-1 img {
   width: 80%;
-  height:90%;
   border-radius: 15px;
 }
 .about-col-2 {
@@ -389,4 +388,7 @@ nav .fas {
   color: #74e5f6;
   margin-top: -40px;
   display: block;
+}
+.about-col-1 img{
+  height 80rem;
 }
